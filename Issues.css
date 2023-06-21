@@ -3,7 +3,7 @@
 }
 
 .u-section-1 .u-text-1 {
-  margin: 44px auto 0 0;
+  margin: 44px 0 0;
 }
 
 .u-section-1 .u-text-2 {
@@ -26,21 +26,19 @@
 }
 
 .u-section-2 .u-text-1 {
-  margin-top: 0;
-  margin-bottom: 0;
-  margin-left: 0;
+  margin: 2px 0 0;
 }
 
 .u-section-2 .u-text-2 {
-  margin-top: 20px;
+  margin-top: 18px;
   margin-bottom: 39px;
   margin-left: 0;
 }.u-section-3 .u-sheet-1 {
-  min-height: 819px;
+  min-height: 875px;
 }
 
 .u-section-3 .u-text-1 {
-  margin: 19px auto 0 0;
+  margin: 19px 0 0;
 }
 
 .u-section-3 .u-text-2 {
@@ -154,7 +152,7 @@
 }
 
 .u-section-4 .u-text-1 {
-  margin: 5px 718px 0 0;
+  margin: 5px 0 0;
 }
 
 .u-section-4 .u-text-2 {
@@ -183,7 +181,7 @@
 .u-section-4 .u-text-5 {
   font-weight: 400;
   font-size: 1.875rem;
-  margin: 48px 806px 0 0;
+  margin: 48px 0 0;
 }
 
 .u-section-4 .u-text-6 {
@@ -199,82 +197,18 @@
   margin: 20px auto 60px 0;
 }
 
-@media (max-width: 1199px) {
-  .u-section-4 .u-text-1 {
-    margin-right: 518px;
-  }
-
-  .u-section-4 .u-text-5 {
-    margin-right: 606px;
-  }
-}
-
-@media (max-width: 991px) {
-  .u-section-4 .u-text-1 {
-    margin-right: 298px;
-  }
-
-  .u-section-4 .u-text-5 {
-    margin-right: 386px;
-  }
-}
-
-@media (max-width: 767px) {
-  .u-section-4 .u-text-1 {
-    margin-right: 118px;
-  }
-
-  .u-section-4 .u-text-5 {
-    margin-right: 206px;
-  }
-}
-
 @media (max-width: 575px) {
-  .u-section-4 .u-text-1 {
-    margin-right: 0;
-  }
-
   .u-section-4 .u-text-3 {
     margin-right: 0;
-  }
-
-  .u-section-4 .u-text-5 {
-    margin-right: 6px;
   }
 }.u-section-5 .u-sheet-1 {
   min-height: 400px;
 }
 
 .u-section-5 .u-text-1 {
-  margin: 0 910px 0 0;
+  margin: 0;
 }
 
 .u-section-5 .u-text-2 {
-  margin-left: 0;
-  margin-right: auto;
-  margin-bottom: 60px;
-}
-
-@media (max-width: 1199px) {
-  .u-section-5 .u-text-1 {
-    margin-right: 710px;
-  }
-}
-
-@media (max-width: 991px) {
-  .u-section-5 .u-text-1 {
-    margin-right: 490px;
-  }
-}
-
-@media (max-width: 767px) {
-  .u-section-5 .u-text-1 {
-    margin-right: 310px;
-  }
-}
-
-@media (max-width: 575px) {
-  .u-section-5 .u-text-1 {
-    margin-right: 110px;
-  }
+  margin: 20px auto 60px 0;
 }
