@@ -40995,7 +40995,7 @@ a.u-link.u-text-hover-grey-90:hover {
         h1.u-title
         {
         font-weight: 400;
-        font-size: 6rem;
+        font-size: 4.5rem;
         line-height: 1.1;
         margin-top: 20px;
         margin-bottom: 20px;
@@ -41020,11 +41020,11 @@ a.u-link.u-text-hover-grey-90:hover {
         }
         h2:not(.u-subtitle)
         {
-        font-size: 2.25rem;
+        font-size: 1.875rem;
         line-height: 1.1;
         margin-top: 20px;
         margin-bottom: 20px;
-        font-weight: 700;
+        font-weight: 400;
         }
         h3
         {
